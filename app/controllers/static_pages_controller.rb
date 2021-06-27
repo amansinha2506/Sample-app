@@ -1,6 +1,6 @@
 class StaticPagesController < ApplicationController
   # StaticPagesController inherit from ApplicationController
-  # home is a methos inside StaticPagesController class
+  # home is a method inside StaticPagesController class
   def home
   end
 
